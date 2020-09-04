@@ -21,6 +21,9 @@
           <li className="nav-item">
             <NavLink className="nav-link " exact to="/About">About</NavLink>
           </li>
+          <li className="nav-item">
+            <NavLink className="nav-link " exact to="/task1">Task</NavLink>
+          </li>
         </ul>
        
       </div>
